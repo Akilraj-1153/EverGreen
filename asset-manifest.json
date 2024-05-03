@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/EverGreen/static/css/main.8b884131.css",
+    "main.js": "/EverGreen/static/js/main.56b92cf3.js",
+    "static/js/787.f7067c9d.chunk.js": "/EverGreen/static/js/787.f7067c9d.chunk.js",
+    "static/media/Aboutbg2.png": "/EverGreen/static/media/Aboutbg2.b62b9b179f353d54bf54.png",
+    "static/media/Homebg.jpg": "/EverGreen/static/media/Homebg.c2464a122d70d94785b6.jpg",
+    "static/media/PredictionPagebg.jpg": "/EverGreen/static/media/PredictionPagebg.980d82d3b58bf77be49c.jpg",
+    "static/media/eggplant.jpg": "/EverGreen/static/media/eggplant.f670e083b695d6437abc.jpg",
+    "static/media/mushrooms.jpg": "/EverGreen/static/media/mushrooms.16975847981ab16ea33c.jpg",
+    "static/media/AboutPagebg.jpg": "/EverGreen/static/media/AboutPagebg.c6e13546d54eb7a406ca.jpg",
+    "static/media/Productbg.jpg": "/EverGreen/static/media/Productbg.a0b2f2740cdc525bf3ab.jpg",
+    "static/media/Supportpagebg.jpg": "/EverGreen/static/media/Supportpagebg.4e78c42b2fae52b2bd5b.jpg",
+    "static/media/cauliflower.jpg": "/EverGreen/static/media/cauliflower.8f00526c07e76f2827eb.jpg",
+    "static/media/lettuce.jpg": "/EverGreen/static/media/lettuce.5ca068a9c1c62361e070.jpg",
+    "static/media/onion.jpg": "/EverGreen/static/media/onion.45b3a2f5a8cd1593767d.jpg",
+    "static/media/asparagus.jpg": "/EverGreen/static/media/asparagus.866419028452ff4e98ff.jpg",
+    "static/media/cucumber.jpg": "/EverGreen/static/media/cucumber.b134bf4e7b3120f4f6f1.jpg",
+    "static/media/spinach.jpg": "/EverGreen/static/media/spinach.82cc2a9e4d19f582c1d9.jpg",
+    "static/media/carrot.jpg": "/EverGreen/static/media/carrot.659b2fdcccc2235d0303.jpg",
+    "static/media/green beans.jpg": "/EverGreen/static/media/green beans.5242930e85267721395a.jpg",
+    "index.html": "/EverGreen/index.html",
+    "main.8b884131.css.map": "/EverGreen/static/css/main.8b884131.css.map",
+    "main.56b92cf3.js.map": "/EverGreen/static/js/main.56b92cf3.js.map",
+    "787.f7067c9d.chunk.js.map": "/EverGreen/static/js/787.f7067c9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b884131.css",
+    "static/js/main.56b92cf3.js"
+  ]
+}
