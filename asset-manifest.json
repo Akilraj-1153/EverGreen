@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EverGreen/static/css/main.8b884131.css",
-    "main.js": "/EverGreen/static/js/main.56b92cf3.js",
+    "main.js": "/EverGreen/static/js/main.b63ff5e0.js",
     "static/js/787.f7067c9d.chunk.js": "/EverGreen/static/js/787.f7067c9d.chunk.js",
     "static/media/Aboutbg2.png": "/EverGreen/static/media/Aboutbg2.b62b9b179f353d54bf54.png",
     "static/media/Homebg.jpg": "/EverGreen/static/media/Homebg.c2464a122d70d94785b6.jpg",
@@ -21,11 +21,11 @@
     "static/media/green beans.jpg": "/EverGreen/static/media/green beans.5242930e85267721395a.jpg",
     "index.html": "/EverGreen/index.html",
     "main.8b884131.css.map": "/EverGreen/static/css/main.8b884131.css.map",
-    "main.56b92cf3.js.map": "/EverGreen/static/js/main.56b92cf3.js.map",
+    "main.b63ff5e0.js.map": "/EverGreen/static/js/main.b63ff5e0.js.map",
     "787.f7067c9d.chunk.js.map": "/EverGreen/static/js/787.f7067c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b884131.css",
-    "static/js/main.56b92cf3.js"
+    "static/js/main.b63ff5e0.js"
   ]
 }
